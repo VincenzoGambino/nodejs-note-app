@@ -5,6 +5,11 @@ Commands:
 - remove
 - list
 
+**Install packages**  
+npm install
+
+**Usage**
+
 **Add a new note**  
 node app.js add  
 Parameters:
