@@ -1,3 +1,6 @@
+# Notes App  
+
+
 Create Notes via command line.  
 Commands:
 - add
@@ -8,7 +11,7 @@ Commands:
 **Install packages**  
 npm install
 
-**Usage**
+##Usage##
 
 **Add a new note**  
 node app.js add  
